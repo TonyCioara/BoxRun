@@ -2,4 +2,4 @@
 
 # H2 
 
-![In_game](in_game.png)
+![In_game](in_game.jpg)
