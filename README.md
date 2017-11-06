@@ -2,4 +2,4 @@
 
 # H2 
 
-![Hello](images/hello.png)
+![Hello](hello.png)
